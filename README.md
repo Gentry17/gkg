@@ -1,4 +1,4 @@
 gkg
 ===
 
-Scripts and tools for working with the GDELT and the Global Knowledge Graph
+Scripts and tools for working with GDELT and the Global Knowledge Graph
